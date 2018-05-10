@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /favicon.ico
+Disallow: /assets/
+
+Sitemap: https://lqj123456789.github.io/sitemap.xml
